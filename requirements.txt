@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic>=2
+chromadb
+rank-bm25
+pytest
+httpx
+python-dotenv
