@@ -14,6 +14,19 @@ Full scientific design rationale:
 
 ---
 
+## 🌐 Live Demo
+
+**🔗 [Try Darukaa Live](https://darukaa-y3yp.onrender.com)**
+
+The latest deployed version of **Darukaa** is available for live testing:
+
+-> **https://darukaa-y3yp.onrender.com**
+
+> **Note:** The application is hosted on Render's free tier, which may automatically put the service to sleep after a period of inactivity. If the application has been inactive, the initial load may take a little longer while the server starts back up. Subsequent requests should load normally.
+
+---
+
+
 ## 1. Architecture Overview
 
 Darukaa combines **deterministic ecological reasoning** with **bounded conversational intelligence**:
